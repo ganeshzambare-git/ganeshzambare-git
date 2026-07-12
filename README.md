@@ -1,5 +1,27 @@
 # 💫 About Me:
-Hi there, I'm Ganesh! 👋<br>Aspiring Generative AI Engineer | Computer Engineering Student 🚀<br>I'm a passionate developer focused on building smart applications, mastering full-stack AI architectures, and creating efficient open-source data pipelines. Welcome to my digital space!<br><br>🟢 About Me:<br>🔭 I’m currently working on: Building and deploying advanced Generative AI architectures, prompt optimization layers, and end-to-end NLP pipelines.<br><br>👯 I’m looking to collaborate on: Open-source Large Language Model (LLM) tooling, agentic workflows, and unique full-stack web applications using React and Next.js.<br><br>🤝 I’m looking for help with: Hardening my deep-dive Data Structures & Algorithms (DSA) optimization skills for high-dimensional vector data layouts and production scale.<br><br>🌱 I’m currently learning: Advanced MLOps monitoring pipelines, model evaluation metrics, and complex multi-agent frameworks like LangGraph.<br><br>💬 Ask me about: Python programming, NLP pipelines, data cleaning, and student community club initiatives.<br><br>⚡ Fun fact: When I'm not orchestrating LLM chains, you can find me mapping out creative storyboards for video content or hitting the gym to clear my mind!
+Hi,I am  Ganesh Zambare                                                                          Aspiring Data Scientist and Computer Engineering student with a deep focus on turning raw data into production-ready Machine Learning models and actionable business intelligence. While my long-term trajectory is rooted in advanced AI Engineering, I specialize in building the foundational data architectures—from web scraping to ETL deployment—that make robust data science possible.
+
+Driven by practical execution, I have independently scraped, cleaned, and analyzed 30+ to 40+ complex datasets across Kaggle and open-source platforms. My approach combines traditional data analytics with modern tools, utilizing LLM-based web scraping, JSON parsing, and structured ETL pipelines to feed predictive ML models.
+
+Beyond individual technical execution, I possess strong leadership and production experience. As a Project Leader, I spearheaded the development of InsightForge, a specialized business intelligence platform. Moving into production engineering, I successfully led a cross-functional team, structured sprint workflows, and delegated complex tasks while simultaneously contributing as a hands-on Prompt Engineer to build and deploy advanced AI chatbots.
+
+Core Technical Expertise:
+
+1. Data Science & ML: Exploratory Data Analysis (EDA), Predictive Modeling, Machine Learning Algorithms, Python, PyTorch.
+2. Data Engineering & Extraction: End-to-End ETL Pipeline Architecture, LLM Web Scraping, JSON Data Parsing, Open-Source Data Mining.
+3. Business Intelligence & Platforms: InsightForge Development, Microsoft Power BI, Data Visualization, Trend Reporting & Analysis.
+4. AI Engineering & Leadership: Prompt Engineering, AI Chatbot Development, Technical Project Leadership, Team Assignment & Production Engineering.
+
+I am actively seeking Data Science / Data Analytics Internships and collaborative projects where I can deploy my pipeline development, team leadership, and modeling skills to solve real-world data challenges.
+
+## 🚀 Featured Production-Ready Projects
+
+###  InsightForge | [View Repository] https://github.com/ganeshzambare-git/Insights-Forge.git
+*A next-generation Business Intelligence platform built with embedded AI capabilities and machine learning infrastructure.*
+**Core Contribution:** Served as the Technical Project Leader, driving the product architecture, organizing sprint task delegation, and managing resource allocation.
+**Tech Stack:** Python, LLM Web Scraping, Custom ETL Pipelines, EDA Frameworks,Python, PyTorch, Microsoft Power BI, Streamlit, JSON.
+**Key Features:** Built and deployed an integrated, production-ready AI Chatbot utilizing prompt engineering to allow users to query live datasets naturally. Deployed machine learning models directly into the BI loop to generate predictive analytics.
+
 
 
 ## 🌐 Socials:
