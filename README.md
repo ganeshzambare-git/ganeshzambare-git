@@ -1,5 +1,7 @@
 # 💫 About Me:
-Hi,I am  Ganesh Zambare                                                                          Aspiring Data Scientist and Computer Engineering student with a deep focus on turning raw data into production-ready Machine Learning models and actionable business intelligence. While my long-term trajectory is rooted in advanced AI Engineering, I specialize in building the foundational data architectures—from web scraping to ETL deployment—that make robust data science possible.
+Hi,I am  Ganesh Zambare   
+
+Aspiring Data Scientist and Computer Engineering student with a deep focus on turning raw data into production-ready Machine Learning models and actionable business intelligence. While my long-term trajectory is rooted in advanced AI Engineering, I specialize in building the foundational data architectures—from web scraping to ETL deployment—that make robust data science possible.
 
 Driven by practical execution, I have independently scraped, cleaned, and analyzed 30+ to 40+ complex datasets across Kaggle and open-source platforms. My approach combines traditional data analytics with modern tools, utilizing LLM-based web scraping, JSON parsing, and structured ETL pipelines to feed predictive ML models.
 
@@ -17,12 +19,14 @@ I am actively seeking Data Science / Data Analytics Internships and collaborativ
 ## 🚀 Featured Production-Ready Projects
 
 ###  InsightForge | [View Repository] https://github.com/ganeshzambare-git/Insights-Forge.git
+
 *A next-generation Business Intelligence platform built with embedded AI capabilities and machine learning infrastructure.*
+
 **Core Contribution:** Served as the Technical Project Leader, driving the product architecture, organizing sprint task delegation, and managing resource allocation.
+
 **Tech Stack:** Python, LLM Web Scraping, Custom ETL Pipelines, EDA Frameworks,Python, PyTorch, Microsoft Power BI, Streamlit, JSON.
+
 **Key Features:** Built and deployed an integrated, production-ready AI Chatbot utilizing prompt engineering to allow users to query live datasets naturally. Deployed machine learning models directly into the BI loop to generate predictive analytics.
-
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ganesh.zambare_6735) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ganesh-zambare-10369a313) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/GaneshZambare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ganesh_zambare_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganeshzambare26@gmail.com) 
